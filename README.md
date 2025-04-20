@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Jason!
 
-<!--
-**jmartgmz/jmartgmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Science student at the University of Delaware (UD), with hands-on experience in both front-end and back-end development. I love building clean, responsive web interfaces and exploring the logic and structure behind the code.
 
-Here are some ideas to get you started:
+## 🧠 Tech Stack & Skills
+- **Languages**: HTML, CSS, Java, JavaScript, C++
+- **Front-End**: Responsive design, UI/UX best practices
+- **Back-End**: Object-Oriented Programming, Algorithms, and Data Structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+**University of Delaware (UD)**  
+Computer Science
+**Delaware Technical Community College**
+Computer and Information Science
+
+
+## 📫 Let's Connect!
+- Email: jmartgmz@pm.me
+
+Thanks for stopping by! 🚀
