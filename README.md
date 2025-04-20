@@ -16,5 +16,3 @@ Computer and Information Science
 
 ## 📫 Let's Connect!
 - Email: jmartgmz@pm.me
-
-Thanks for stopping by! 🚀
