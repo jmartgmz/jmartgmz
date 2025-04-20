@@ -9,9 +9,9 @@ I'm a passionate Computer Science student at the University of Delaware (UD), wi
 
 ## 🎓 Education
 **University of Delaware (UD)**  
-Computer Science
+- Computer Science
 **Delaware Technical Community College**
-Computer and Information Science
+- Computer and Information Science
 
 
 ## 📫 Let's Connect!
