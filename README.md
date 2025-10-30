@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason!
+## 👋 Hi, I'm Jason!
 
 I'm a Computer Science student at the University of Delaware (UD).  
 I enjoy building clean, responsive web interfaces and exploring how systems work behind the scenes.
