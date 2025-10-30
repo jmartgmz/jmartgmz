@@ -27,9 +27,9 @@ _A.S. in Computer and Information Science_
 ---
 
 ## 📊 GitHub Stats
-<a href="https://github.com/jmartgmz/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent" />
+<a href="https://github.com/jmartgmz">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
 </a>
-<a href="https://github.com/jmartgmz/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartgmz&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/jmartgmz">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartgmz&layout=compact&langs_count=8&hide=shaderlab,hlsl,cmake&card_width=320&theme=transparent" />
 </a>
