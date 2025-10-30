@@ -29,7 +29,7 @@ _A.S. in Computer and Information Science_
       <a href="https://github.com/jmartgmz">
         <img
           height="200"
-          src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=github"
         />
       </a>
     </td>
@@ -43,4 +43,3 @@ _A.S. in Computer and Information Science_
     </td>
   </tr>
 </table>
-
