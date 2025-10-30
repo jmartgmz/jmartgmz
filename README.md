@@ -20,3 +20,4 @@ I'm a passionate Computer Science student at the University of Delaware (UD), wi
 
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartgmz)](https://github.com/jmartgmz/github-readme-stats)
