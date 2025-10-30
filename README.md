@@ -19,4 +19,4 @@ I'm a passionate Computer Science student at the University of Delaware (UD), wi
 - Email: jmartgmz@pm.me
 
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent)****
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent)
