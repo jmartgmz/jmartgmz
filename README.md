@@ -27,24 +27,17 @@ _A.S. in Computer and Information Science_
 ---
 
 ## 📊 GitHub Stats
-<div style="display:flex; gap:16px; justify-content:center; align-items:stretch; flex-wrap:wrap; margin: 12px 0;">
-  <div style="display:flex; align-items:center; justify-content:center; border-radius:8px; padding:8px;">
-    <a href="https://github.com/jmartgmz">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent"
-        alt="Jason's GitHub Stats"
-        style="height:200px; display:block;"
-      />
-    </a>
-  </div>
-
-  <div style="display:flex; align-items:center; justify-content:center; border-radius:8px; padding:8px;">
-    <a href="https://github.com/jmartgmz">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartgmz&layout=compact&langs_count=8&card_width=320&theme=transparent"
-        alt="Top Languages"
-        style="height:200px; display:block;"
-      />
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/jmartgmz">
+        <img height="200" src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&count_private=true&include_all_commits=true&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jmartgmz">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartgmz&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+      </a>
+    </td>
+  </tr>
+</table>
