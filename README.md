@@ -18,6 +18,10 @@ I'm a passionate Computer Science student at the University of Delaware (UD), wi
 ## 📫 Let's Connect!
 - Email: jmartgmz@pm.me
 
+<a href="https://github.com/jmartgmz/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/jmartgmz/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmartgmz&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmartgmz&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmartgmz)](https://github.com/jmartgmz/github-readme-stats)
