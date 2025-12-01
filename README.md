@@ -24,7 +24,7 @@ _A.S. in Computer and Information Science_
 
 
 ## 📊 GitHub Stats
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <a href="https://github.com/jmartgmz">
